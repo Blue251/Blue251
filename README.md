@@ -17,6 +17,7 @@ Focused on coding, building practical projects, and improving problem-solving sk
 - Tools: Git, GitHub, Python (VS Code, IntelliJ)
 
 🔹 Featured Projects
+
 🔸 Login System with Mutual TLS
   - Python login system using certificates for stronger authentication
 
