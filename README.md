@@ -1,6 +1,6 @@
 Mehmet Sadi
 
-Cybersecurity Student | Python • JavaScript • HTML | London
+Cybersecurity Student | Python • JavaScript • HTML |
 Focused on coding, building practical projects, and improving problem-solving skills. I enjoy working on practical tools, learning Azure, and experimenting with security concepts while keeping things simple and clean.
 
 🔹 What I’m Learning
